@@ -1,0 +1,41 @@
+
+HeliSprites.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+h_fly_0001
+  rotate: false
+  xy: 2, 294
+  size: 296, 144
+  orig: 296, 144
+  offset: 0, 0
+  index: 1
+h_fly_0002
+  rotate: false
+  xy: 2, 148
+  size: 296, 144
+  orig: 296, 144
+  offset: 0, 0
+  index: 2
+h_fly_0003
+  rotate: false
+  xy: 300, 294
+  size: 296, 144
+  orig: 296, 144
+  offset: 0, 0
+  index: 3
+h_fly_0004
+  rotate: false
+  xy: 2, 2
+  size: 296, 144
+  orig: 296, 144
+  offset: 0, 0
+  index: 4
+h_fly_0005
+  rotate: false
+  xy: 300, 148
+  size: 296, 144
+  orig: 296, 144
+  offset: 0, 0
+  index: 5
